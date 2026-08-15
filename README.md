@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Python;Full+Stack+Developer;AI-Powered+Automation+%2F+n8n+Workflows;Always+Learning+%2C+Always+Building" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/dhanaji-mali-42a072311)
 
 <img src="https://komarev.com/ghpvc/?username=Dhanaji005&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Dhanaji005?style=for-the-badge&color=00d9ff&label=FOLLOWERS" />
