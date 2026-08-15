@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=200&section=header&text=Dhanaji%20Mali&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20and%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Dhanaji%20Mali&fontSize=45&fontColor=00d9ff&animation=twinkling&fontAlignY=35&desc=Java%20and%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Python;Full+Stack+Developer;AI-Powered+Automation+%2F+n8n+Workflows;Always+Learning+%2C+Always+Building" alt="Typing SVG" /></a>
 
@@ -45,7 +45,7 @@ const dhanajiMali = {
 
 ### 🎓 Online Examination Portal
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhanaji005&repo=online-examination-portal&theme=nord&border_color=00d9ff&title_color=00d9ff)](https://github.com/Dhanaji005)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhanaji005&repo=online-examination-portal&theme=nord&bg_color=000000&border_color=00d9ff&title_color=00d9ff)](https://github.com/Dhanaji005)
 
 Web-based examination system with user authentication, exam scheduling, and question management.
 
@@ -61,7 +61,7 @@ Web-based examination system with user authentication, exam scheduling, and ques
 
 ### 🤖 WhatsApp AI Chatbot
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhanaji005&repo=whatsapp-ai-chatbot&theme=nord&border_color=00d9ff&title_color=00d9ff)](https://github.com/Dhanaji005)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhanaji005&repo=whatsapp-ai-chatbot&theme=nord&bg_color=000000&border_color=00d9ff&title_color=00d9ff)](https://github.com/Dhanaji005)
 
 AI-powered WhatsApp chatbot built with n8n automation workflows to automate user queries and responses.
 
@@ -105,10 +105,10 @@ AI-powered WhatsApp chatbot built with n8n automation workflows to automate user
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanaji005&show_icons=true&theme=nord&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaji005&layout=compact&theme=nord&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanaji005&show_icons=true&theme=nord&bg_color=000000&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanaji005&layout=compact&theme=nord&bg_color=000000&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=Dhanaji005&theme=nord&border=00d9ff&ring=00d9ff&fire=00d9ff" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Dhanaji005&theme=nord&background=000000&border=00d9ff&ring=00d9ff&fire=00d9ff" width="70%" />
 
 </div>
 
@@ -121,7 +121,7 @@ AI-powered WhatsApp chatbot built with n8n automation workflows to automate user
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaji005&theme=nord&color=00d9ff&line=00d9ff&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanaji005&theme=nord&bg_color=000000&color=00d9ff&line=00d9ff&point=ffffff" width="90%" />
 </div>
 
 <br/>
@@ -135,4 +135,4 @@ AI-powered WhatsApp chatbot built with n8n automation workflows to automate user
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
